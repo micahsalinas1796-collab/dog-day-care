@@ -1,0 +1,6 @@
+{
+  "name": "Happy Paws: Dog Daycare Resort",
+  "description": "A cozy, charming dog daycare simulation game where you manage puppy playtime, grooming baths, gourmet kibble feeding, and nap lounges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
